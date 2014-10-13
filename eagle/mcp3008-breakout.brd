@@ -152,6 +152,8 @@
 <text x="6.35" y="19.05" size="0.6096" layer="21">8 Channels</text>
 <text x="4.1275" y="18.0975" size="0.6096" layer="21">10-bit ADC with SPI</text>
 <text x="8.5725" y="21.59" size="1.016" layer="22" rot="MR270">MCP3008 Breakout Board</text>
+<dimension x1="0" y1="22.86" x2="17.45" y2="22.85" x3="8.726459375" y3="25.40536875" textsize="1.016" layer="21"/>
+<dimension x1="0" y1="22.85" x2="0" y2="0" x3="-2.54" y3="11.425" textsize="1.016" layer="21"/>
 </plain>
 <libraries>
 <library name="SparkFun-Connectors">
